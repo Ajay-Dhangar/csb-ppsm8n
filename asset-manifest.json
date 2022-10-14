@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ajay-dhangar.github.io/csb-ppsm8n/static/css/main.02d1d671.chunk.css",
+    "main.js": "https://ajay-dhangar.github.io/csb-ppsm8n/static/js/main.ff230e5d.chunk.js",
+    "main.js.map": "https://ajay-dhangar.github.io/csb-ppsm8n/static/js/main.ff230e5d.chunk.js.map",
+    "runtime-main.js": "https://ajay-dhangar.github.io/csb-ppsm8n/static/js/runtime-main.0385b719.js",
+    "runtime-main.js.map": "https://ajay-dhangar.github.io/csb-ppsm8n/static/js/runtime-main.0385b719.js.map",
+    "static/js/2.d24e3c16.chunk.js": "https://ajay-dhangar.github.io/csb-ppsm8n/static/js/2.d24e3c16.chunk.js",
+    "static/js/2.d24e3c16.chunk.js.map": "https://ajay-dhangar.github.io/csb-ppsm8n/static/js/2.d24e3c16.chunk.js.map",
+    "index.html": "https://ajay-dhangar.github.io/csb-ppsm8n/index.html",
+    "static/css/main.02d1d671.chunk.css.map": "https://ajay-dhangar.github.io/csb-ppsm8n/static/css/main.02d1d671.chunk.css.map",
+    "static/js/2.d24e3c16.chunk.js.LICENSE.txt": "https://ajay-dhangar.github.io/csb-ppsm8n/static/js/2.d24e3c16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0385b719.js",
+    "static/js/2.d24e3c16.chunk.js",
+    "static/css/main.02d1d671.chunk.css",
+    "static/js/main.ff230e5d.chunk.js"
+  ]
+}
